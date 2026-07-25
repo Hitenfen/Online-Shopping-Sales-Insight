@@ -42,4 +42,4 @@ Top 5 Sales Performing States: Highest revenue-generating states
 Order Status Distribution: Delivery, cancellation, return, and refund statistics
 
 dashboard Preview 
-![Project Screenshot](https://example.com)
+![Project Screenshot]([https://example.com](https://github.com/Hitenfen/Online-Shopping-Sales-Insight/blob/main/Snapshot%20of%20Onlines%20Sales%20review.png))
